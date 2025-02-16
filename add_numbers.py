@@ -1,5 +1,5 @@
 def add_two_numbers(a: float, b: float) -> float:
-    return 4
+    return a + b
     """
     Add two numbers and return the result.
     
